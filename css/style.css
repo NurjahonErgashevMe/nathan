@@ -1,8 +1,7 @@
 /* ================================================== */
 
 
-/* Nathan
-/* created by designesia
+/*
 
 @charset "utf-8";
 
@@ -3962,7 +3961,7 @@ span.teaser {
 
 .ul-style-4 li {
   margin: 2px 0 2px 0;
-  display: ;
+  display: 0.7;
   font-weight: 500;
 }
 
@@ -4570,8 +4569,7 @@ ol.ol-style-1.secondary li::before{
 }
 
 .pricing-s2.text-light .top .price,
-.pricing-s2.text-white .top .price,
-  {
+.pricing-s2.text-white .top .price {
   color: #ffffff;
 }
 
